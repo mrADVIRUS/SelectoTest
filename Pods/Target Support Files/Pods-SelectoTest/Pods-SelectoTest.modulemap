@@ -1,0 +1,6 @@
+framework module Pods_SelectoTest {
+  umbrella header "Pods-SelectoTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
